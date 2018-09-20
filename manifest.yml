@@ -50,9 +50,8 @@ dependencies:
   - cflinuxfs2
   - cflinuxfs3
 - name: pip
-  version: 18.0.1
-  uri: https://buildpacks.cloudfoundry.org/dependencies/pip/pip-9.0.3-7bf48f9a.tar.gz
-  sha256: 7bf48f9a693be1d58f49f7af7e0ae9fe29fd671cde8a55e6edca3581c4ef5796
+  version: 18.0
+  uri: https://files.pythonhosted.org/packages/5f/25/e52d3f31441505a5f3af41213346e5b6c221c9e086a166f3703d2ddaf940/pip-18.0-py2.py3-none-any.whl
   cf_stacks:
   - cflinuxfs2
   - cflinuxfs3
