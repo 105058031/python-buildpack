@@ -52,6 +52,7 @@ dependencies:
 - name: pip
   version: 18.0
   uri: https://files.pythonhosted.org/packages/5f/25/e52d3f31441505a5f3af41213346e5b6c221c9e086a166f3703d2ddaf940/pip-18.0-py2.py3-none-any.whl
+  sha256: 070e4bf493c7c2c9f6a08dd797dd3c066d64074c38e9e8a0fb4e6541f266d96c
   cf_stacks:
   - cflinuxfs2
   - cflinuxfs3
