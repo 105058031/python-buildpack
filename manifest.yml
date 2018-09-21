@@ -52,6 +52,7 @@ dependencies:
 - name: pip
   version: 18.0
   uri: https://github.com/pypa/pip.git
+  sha256: a1b326d69245243cbe08b38f90e107ff77edef40
   cf_stacks:
   - cflinuxfs2
 - name: pip-pop
